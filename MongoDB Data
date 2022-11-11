@@ -1,0 +1,60 @@
+{
+    
+    title: 'Chicken Soft Tacos',
+    calories_per_serving: 205,
+    cook_time: 19,
+    desc: 'Mexican soft tacos',
+    directions: [
+        'Put seasoning on chicken breasts',
+        'Grill until done',
+        'Chop chicken into pieces',
+        'Put in tortillas'
+    ],
+    ingredients: [
+        {
+            name: 'chicken breast',
+            quantity: {
+                amount: 1,
+                unit: 'lbs'
+            }
+        },
+        {
+            name: 'taco seasoning',
+            quantity: {
+                amount: 2,
+                unit: 'oz'
+            }
+        },
+        {
+            name: 'small flour tortillas',
+            quantity: {
+                amount: 12,
+                unit: 'oz'
+            }
+        }
+    ],
+    likes: [
+        261,
+        1,
+        415
+    ],
+    likes_count: 3,
+    prep_time: 10,
+    rating: [
+        4,
+        4,
+        4,
+        4,
+        2,
+        5,
+        3
+    ],
+    rating_avg: 3.71,
+    servings: 5,
+    tags: [
+        'mexican',
+        'quick',
+        'easy',
+        'chicken'
+    ],
+    type: 'Dinner'
